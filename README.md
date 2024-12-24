@@ -4,6 +4,8 @@
 **Perception AI** is an interactive web application that uses AI to process handwritten mathematical expressions. ✍️ Users can draw on a canvas, and the backend analyzes the image, solves the expression, and displays the result in real-time. Powered by **FastAPI**, **React**, **Gemini AI**, and other cutting-edge technologies, this app bridges human input and machine learning to enhance learning and problem-solving. 📚
 
 
+
+
 https://github.com/user-attachments/assets/9e74e3e4-7927-46e3-9c21-27824bfeed4d
 
 
