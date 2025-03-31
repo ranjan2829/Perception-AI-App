@@ -40,3 +40,48 @@
 .read-the-docs {
   color: #888;
 }
+
+/* New styles for a more visually appealing UI */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444;
+}
+
+p {
+  line-height: 1.6;
+}
+
+/* Styles for buttons */
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Styles for color swatches */
+.color-swatch {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 5px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.color-swatch:hover {
+  transform: scale(1.1);
+}

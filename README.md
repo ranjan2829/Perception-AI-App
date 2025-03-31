@@ -1,13 +1,8 @@
-
 # Perception AI 🤖
 
 **Perception AI** is an interactive web application that uses AI to process handwritten mathematical expressions. ✍️ Users can draw on a canvas, and the backend analyzes the image, solves the expression, and displays the result in real-time. Powered by **FastAPI**, **React**, **Gemini AI**, and other cutting-edge technologies, this app bridges human input and machine learning to enhance learning and problem-solving. 📚
 
-
-
-
 https://github.com/user-attachments/assets/9e74e3e4-7927-46e3-9c21-27824bfeed4d
-
 
 ## Technologies 🚀
 
@@ -37,12 +32,33 @@ https://github.com/user-attachments/assets/9e74e3e4-7927-46e3-9c21-27824bfeed4d
    python main.py
    ```
 
-2. React Frontend Run:
+### Frontend
+
+1. Navigate to the frontend directory:
+   ```bash
+   cd frontend
+   ```
+
+2. Install the dependencies:
    ```bash
    npm install
+   ```
+
+3. Run the development server:
+   ```bash
    npm run dev
+   ```
+
+4. Build the project for production:
+   ```bash
    npm run build
    ```
+
+## New UI Features 🎨
+
+- **Enhanced Color Swatches**: More color options for drawing.
+- **Improved Button Styles**: Visually appealing buttons with better hover effects.
+- **Responsive Design**: Improved layout and design for a better user experience.
 
 ## Links 🔗
 
