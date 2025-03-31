@@ -5,8 +5,6 @@ import axios from 'axios';
 import Draggable from 'react-draggable';
 import { SWATCHES } from '@/constants';
 
-
-
 interface GeneratedResult {
     expression: string;
     answer: string;
