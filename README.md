@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/9e74e3e4-7927-46e3-9c21-27824bfeed4d
 
 - **Frontend**: React, TypeScript, Vite, Mantine, Axios, Draggable
 - **Backend**: FastAPI, Python, Uvicorn, Pydantic, PIL
-- **AI**: Gemini AI, [gemini-1.5-flash](https://cloud.google.com/ai), Google AI Studio 🧠
+- **AI**: Gemini AI, Google AI Studio 🧠
 - **State Management**: React Hooks, useState, useEffect, MathJax for LaTeX rendering
 - **Version Control**: Git, GitHub
 
